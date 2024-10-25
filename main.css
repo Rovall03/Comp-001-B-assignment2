@@ -53,7 +53,7 @@ p { margin: auto;
 
 }
 
-#about-photo {
+#about-photo { border: 2px solid red; padding: 20px; 
 
 }
 
