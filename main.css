@@ -61,7 +61,7 @@ p { margin: auto;
 
 }
 
-#section-about, #section-discography, #section-equipment {
+#section-about, #section-discography, #section-equipment {border: 2px double red;padding: 20px;margin: 20px; width: 90%;
 }
 
 #text-intro {background-color: rgb(59, 55, 55);
